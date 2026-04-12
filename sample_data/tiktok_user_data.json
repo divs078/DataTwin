@@ -1,0 +1,41 @@
+{
+  "Activity": {
+    "Search History": {
+      "SearchList": [
+        {"SearchTerm": "low rise jeans outfit ideas", "Date": "2024-11-01 20:00:00"},
+        {"SearchTerm": "clean girl makeup tutorial", "Date": "2024-11-02 19:30:00"},
+        {"SearchTerm": "how to glow up fast", "Date": "2024-11-03 21:00:00"},
+        {"SearchTerm": "morning routine aesthetic", "Date": "2024-11-04 07:00:00"},
+        {"SearchTerm": "what I eat in a day", "Date": "2024-11-05 12:30:00"},
+        {"SearchTerm": "gym aesthetic workout motivation", "Date": "2024-11-06 06:30:00"},
+        {"SearchTerm": "thrift flip fashion DIY", "Date": "2024-11-07 15:00:00"},
+        {"SearchTerm": "skincare routine for acne", "Date": "2024-11-08 21:30:00"},
+        {"SearchTerm": "viral pasta recipe", "Date": "2024-11-09 18:00:00"},
+        {"SearchTerm": "best travel destinations 2024", "Date": "2024-11-10 22:00:00"}
+      ]
+    },
+    "Hashtag": {
+      "HashtagList": [
+        {"HashtagName": "clean_girl_aesthetic", "HashtagLink": "https://www.tiktok.com/tag/clean_girl_aesthetic"},
+        {"HashtagName": "outfitinspo", "HashtagLink": "https://www.tiktok.com/tag/outfitinspo"},
+        {"HashtagName": "selfcare", "HashtagLink": "https://www.tiktok.com/tag/selfcare"},
+        {"HashtagName": "pilates_workout", "HashtagLink": "https://www.tiktok.com/tag/pilates_workout"},
+        {"HashtagName": "cottagecore", "HashtagLink": "https://www.tiktok.com/tag/cottagecore"},
+        {"HashtagName": "budget_beauty", "HashtagLink": "https://www.tiktok.com/tag/budget_beauty"},
+        {"HashtagName": "hair_care_routine", "HashtagLink": "https://www.tiktok.com/tag/hair_care_routine"},
+        {"HashtagName": "aesthetic_desk_setup", "HashtagLink": "https://www.tiktok.com/tag/aesthetic_desk_setup"},
+        {"HashtagName": "no_spend_challenge", "HashtagLink": "https://www.tiktok.com/tag/no_spend_challenge"},
+        {"HashtagName": "manifestation_tips", "HashtagLink": "https://www.tiktok.com/tag/manifestation_tips"}
+      ]
+    },
+    "Comment": {
+      "CommentsList": [
+        {"Comment": "obsessed with this look omg", "Date": "2024-11-02 20:15:00"},
+        {"Comment": "saving this for my next grocery haul", "Date": "2024-11-04 13:00:00"},
+        {"Comment": "this is exactly the apartment inspo I needed", "Date": "2024-11-06 22:00:00"},
+        {"Comment": "just bought the dupes she mentioned", "Date": "2024-11-08 19:45:00"},
+        {"Comment": "doing this pilates routine every morning now", "Date": "2024-11-09 07:30:00"}
+      ]
+    }
+  }
+}

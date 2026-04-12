@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv
+venv/
+env/
+
+# Models (large files — save separately)
+backend/models/*.pkl
+backend/models/*.joblib
+backend/models/*.bin
+backend/models/*.pt
+backend/models/*.safetensors
+
+# HuggingFace model cache
+*.cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node / Frontend
+node_modules/
+frontend/dist/
+frontend/build/
+.env.local
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/settings.json
+.idea/
