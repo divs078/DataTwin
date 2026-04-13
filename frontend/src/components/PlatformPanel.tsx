@@ -8,16 +8,6 @@ interface Props {
   color: string;
 }
 
-const TOPIC_COLORS: Record<string, string> = {
-  technology: "bg-blue-400",
-  fashion: "bg-pink-400",
-  politics: "bg-red-400",
-  finance: "bg-green-400",
-  "self improvement": "bg-violet-400",
-  entertainment: "bg-orange-400",
-  health: "bg-teal-400",
-  travel: "bg-sky-400",
-};
 
 function TurningPointTimeline({
   points,
